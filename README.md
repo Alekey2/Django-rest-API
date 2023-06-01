@@ -25,7 +25,7 @@ PASSO 8: Se você quiser alterar ou deletar o veículo cadastrado você vai prec
 
 PASSO 9: Para alterar informações e só apagar a infomação antiga e colocar a novo e depois clicar em PUT
 
-PASSO 10: Para deletar é só clicar no botão delete que está em vermelho no canto superior direito
+PASSO 10: Para deletar é só clicar no botão DELETE que está em vermelho no canto superior direito
 
 NO REPLIT BASTA EXECUTAR O PASSO 5 EM DIANTE PARA RODAR A API
 https://replit.com/@AlexSouza25/ProjetoSMD?v=1
