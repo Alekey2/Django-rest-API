@@ -15,7 +15,7 @@ Depois de instalar o django você já está apto para rodar sua API, para rodar 
 PASSO 4:
 Após rodar ira aparecer um link com um IP clique nele com ctrl e o primeiro botão do mouse, ira abrir o navegador com sua API.
 
-PASSO 5: Após abrir o navegador terá um link em vermelho com o IP/Carros, clique nela e será direcionado para a proxima página.
+PASSO 5: Após abrir o navegador terá um link em vermelho com o IP/Carros, clique nela e será direcionado para a proxima página, se preciso clique ctrl + botão esquerdo do mouse.
 
 PASSO 6: Nessa Página terá um campo para você cadastrar veículos novos, para cadastrar basta inserir as informações e clicar em POST e o veículo cadastrado aparecera logo acima.
 
