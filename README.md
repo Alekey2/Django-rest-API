@@ -27,5 +27,5 @@ PASSO 9: Para alterar informações e só apagar a infomação antiga e colocar 
 
 PASSO 10: Para deletar é só clicar no botão DELETE que está em vermelho no canto superior direito
 
-NO REPLIT BASTA EXECUTAR O PASSO 5 EM DIANTE PARA RODAR A API
+NO REPLIT BASTA APERTAR O BOTÃO RUN QUE ESTÁ EM VERDE E EXECUTAR O PASSO 5 EM DIANTE PARA RODAR A API
 https://replit.com/@AlexSouza25/ProjetoSMD?v=1
